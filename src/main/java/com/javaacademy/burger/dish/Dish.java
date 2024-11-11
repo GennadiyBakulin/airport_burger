@@ -8,6 +8,7 @@ import lombok.NonNull;
  */
 @Data
 public class Dish {
-    @NonNull
-    private final DishType dishType; //Тип блюда
+
+  @NonNull
+  private final DishType dishType; //Тип блюда
 }
