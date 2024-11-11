@@ -1,4 +1,4 @@
-package com.javaacademy.burger.IT;
+package com.javaacademy.burger.integration;
 
 import com.javaacademy.burger.Currency;
 import com.javaacademy.burger.Kitchen;
